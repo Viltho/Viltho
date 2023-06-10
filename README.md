@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on making Python my best feature
 - 👯 I’m looking to collaborate on web development projects, 2D games
 - 🤔 I’m looking for help with Artificial Intelligence
-- 💬 Ask me about Python, Data Analysis, OOP, & Problem Solving
+- 💬 Ask me about Python, Data Analysis, OOP, & Problem Solving - [CodeWars](https://www.codewars.com/users/Viltho)
 - 📫 How to reach me: 
   - Email: abdullahabuhammed@gmail.com
   - LinkedIn [Link](https://www.linkedin.com/in/abdullah-abuhamad/)
