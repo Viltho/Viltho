@@ -1,5 +1,5 @@
 ## Hi there visitor 👋 ![](https://komarev.com/ghpvc/?username=Viltho)
-### My name is Abdullah Abu Hamad, AKA **Viltho**, a full stack web developer, with loads of experience in Data Science.
+### My name is Abdullah Abu Hamad, AKA **Viltho**, a full stack web developer, with loads of experience in Data Science, [DS4A/Jordan](https://www.correlation-one.com/data-science-for-all-jordan) Fellow graduate with Honors, Code-Fellows Python program.
 
 - 🔭 I’m currently working on improving my skills in Machine Learning and Artificial Intelligence using Python
 - 🌱 I’m currently working on making Python my best feature
