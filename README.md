@@ -1,4 +1,4 @@
-## Hi there visitor 👋 ![](https://komarev.com/ghpvc/?username=Viltho&style=for-the-badge)
+## Hi there visitor 👋 ![](https://komarev.com/ghpvc/?username=Viltho)
 ### My name is Abdullah Abu Hamad, AKA **Viltho**, a full stack web developer, with loads of experience in Data Science.
 
 - 🔭 I’m currently working on improving my skills in Machine Learning and Artificial Intelligence using Python
