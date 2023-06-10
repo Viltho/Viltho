@@ -1,4 +1,5 @@
-# Hi there 👋, My name is Abdullah Abu Hamad, AKA Viltho, a full stack web developer, with loads of experience in Data Science.
+# Hi there 👋
+### My name is Abdullah Abu Hamad, AKA Viltho, a full stack web developer, with loads of experience in Data Science.
 
 - 🔭 I’m currently working on improving my skills in Machine Learning and Artificial Intelligence using Python
 - 🌱 I’m currently working on making Python my best feature
