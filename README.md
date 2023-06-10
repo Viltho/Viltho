@@ -1,5 +1,5 @@
-## Hi there visitor 👋 
-### My name is Abdullah Abu Hamad, AKA Viltho, a full stack web developer, with loads of experience in Data Science.
+## Hi there visitor 👋 ![](https://komarev.com/ghpvc/?username=Viltho&style=for-the-badge)
+### My name is Abdullah Abu Hamad, AKA **Viltho**, a full stack web developer, with loads of experience in Data Science.
 
 - 🔭 I’m currently working on improving my skills in Machine Learning and Artificial Intelligence using Python
 - 🌱 I’m currently working on making Python my best feature
@@ -23,4 +23,4 @@
 - CoinSurfer's Chronicles: [Repo Link](https://github.com/pythond10-group1-midproject/coinsurfers-chronicles) A 2D platformer game with fully functioning game dynamics such as gravity, object collisions, player movement, interactive overworld, functioning mainmenu.
 
 
-![](https://komarev.com/ghpvc/?username=Viltho&style=for-the-badge)
+
