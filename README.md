@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there visitor 👋 
 ### My name is Abdullah Abu Hamad, AKA Viltho, a full stack web developer, with loads of experience in Data Science.
 
 - 🔭 I’m currently working on improving my skills in Machine Learning and Artificial Intelligence using Python
@@ -7,10 +7,13 @@
 - 🤔 I’m looking for help with Artificial Intelligence
 - 💬 Ask me about Python, Data Analysis, OOP, & Problem Solving
 - 📫 How to reach me: 
-  Email: abdullahabuhammed@gmail.com
-  [Linkedin](https://www.linkedin.com/in/abdullah-abuhamad/)
+  - Email: abdullahabuhammed@gmail.com
+  - LinkedIn [Link](https://www.linkedin.com/in/abdullah-abuhamad/)
 - ⚡ Fun fact: Fast Learner, Love to smile, Challenge nerd
 
+### Programming applications:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,git,materialui,vscode)](https://skillicons.dev)
+<!-- nextjs/django -->
 ### Top programming languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viltho)](https://github.com/anuraghazra/github-readme-stats)
