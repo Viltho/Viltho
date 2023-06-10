@@ -21,3 +21,6 @@
 ### Top-Tier projects:
 - Blogify: [Backend](https://github.com/Viltho/blogify-backend) [Frontend](https://github.com/Viltho/blogify) - A blog post application where user have his own profile, blog based content, with the ability to view other people blogs and interact with them.
 - CoinSurfer's Chronicles: [Repo Link](https://github.com/pythond10-group1-midproject/coinsurfers-chronicles) A 2D platformer game with fully functioning game dynamics such as gravity, object collisions, player movement, interactive overworld, functioning mainmenu.
+
+
+![](https://komarev.com/ghpvc/?username=Viltho&style=for-the-badge)
