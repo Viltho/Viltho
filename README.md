@@ -1,5 +1,5 @@
 ## Hi there visitor 👋 ![](https://komarev.com/ghpvc/?username=Viltho)
-### My name is Abdullah Abu Hamad, AKA **Viltho**, a full stack web developer, with loads of experience in Data Science, [DS4A/Jordan](https://www.correlation-one.com/data-science-for-all-jordan) Fellow graduate with Honors, Code-Fellows Python program.
+ My name is Abdullah Abu Hamad, AKA **Viltho**, a full stack web developer, with loads of experience in Data Science, [DS4A/Jordan](https://www.correlation-one.com/data-science-for-all-jordan) Fellow graduate with Honors, Code-Fellows Python program.
 
 - 🔭 I’m currently working on improving my skills in Machine Learning and Artificial Intelligence using Python
 - 🌱 I’m currently working on making Python my best feature
@@ -12,6 +12,7 @@
 - ⚡ Fun fact: Fast Learner, Love to smile, Challenge nerd
 
 ### Programming applications:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,git,materialui,vscode)](https://skillicons.dev)
 <!-- nextjs/django -->
 ### Top programming languages:
@@ -19,8 +20,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viltho)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top projects:
+
 - Blogify: [Backend](https://github.com/Viltho/blogify-backend) [Frontend](https://github.com/Viltho/blogify) - A blog post application where user have his own profile, blog based content, with the ability to view other people blogs and interact with them.
 - CoinSurfer's Chronicles: [Repo Link](https://github.com/pythond10-group1-midproject/coinsurfers-chronicles) A 2D platformer game with fully functioning game dynamics such as gravity, object collisions, player movement, interactive overworld, functioning mainmenu.
 
+### Honorable mentions:
 
-
+![alt](./Correlation_One_PNG.png)
+![alt](./code_fellows_PNG.png)
