@@ -11,6 +11,11 @@
   - LinkedIn [Link](https://www.linkedin.com/in/abdullah-abuhamad/)
 - ⚡ Fun fact: Fast Learner, Love to smile, Challenge nerd
 
+### Courses covered and practiced:
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
+
 ### Programming applications:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,git,materialui,vscode)](https://skillicons.dev)
