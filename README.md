@@ -16,6 +16,9 @@
 (https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=JLMbpiywVxQ)
 
+[CodeWars](https://www.codewars.com/users/Viltho)
+![alt]([https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)
+
 ### Programming applications:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,git,materialui,vscode)](https://skillicons.dev)
