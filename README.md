@@ -12,10 +12,6 @@
 - ⚡ Fun fact: Fast Learner, Love to smile, Challenge nerd
 
 ### Courses covered and practiced:
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=JLMbpiywVxQ)
-
 [React Hooks Course - All React Hooks Explained](https://www.youtube.com/watch?v=LlvBzyy-558)
 <br>
 <img src="https://i.ytimg.com/vi/LlvBzyy-558/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsy3R83DtobYNkaQF2KoDa1ENY0w" alt="drawing" width="200"/>
