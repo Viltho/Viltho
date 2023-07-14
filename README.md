@@ -17,7 +17,7 @@
 (https://www.youtube.com/watch?v=JLMbpiywVxQ)
 
 [CodeWars](https://www.codewars.com/users/Viltho)
-![alt]([https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)
+![alt](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)
 
 ### Programming applications:
 
