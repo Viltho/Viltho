@@ -16,8 +16,8 @@
 (https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=JLMbpiywVxQ)
 
-[CodeWars](https://www.codewars.com/users/Viltho)
-![alt](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)
+[React Hooks Course - All React Hooks Explained](https://www.youtube.com/watch?v=LlvBzyy-558)
+![alt]([https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg](https://i.ytimg.com/vi/LlvBzyy-558/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsy3R83DtobYNkaQF2KoDa1ENY0w))
 
 ### Programming applications:
 
