@@ -11,10 +11,7 @@
   - LinkedIn [Link](https://www.linkedin.com/in/abdullah-abuhamad/)
 - ⚡ Fun fact: Fast Learner, Love to smile, Challenge nerd
 
-### Courses covered and practiced:
-[React Hooks Course - All React Hooks Explained](https://www.youtube.com/watch?v=LlvBzyy-558)
-<br>
-<img src="https://i.ytimg.com/vi/LlvBzyy-558/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsy3R83DtobYNkaQF2KoDa1ENY0w" alt="drawing" width="200"/>
+### [Courses covered and practiced](./pages/courses.md)
 
 ### Programming applications:
 
