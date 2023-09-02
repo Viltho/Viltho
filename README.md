@@ -11,8 +11,6 @@
   - LinkedIn [Link](https://www.linkedin.com/in/abdullah-abuhamad/)
 - ⚡ Fun fact: Fast Learner, Love to smile, Challenge nerd
 
-### [Courses covered and practiced](./pages/courses.md)
-
 ### Programming applications:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,git,materialui,vscode)](https://skillicons.dev)
