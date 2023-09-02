@@ -1,7 +1,7 @@
 ## Hi there visitor 👋 ![](https://komarev.com/ghpvc/?username=Viltho)
  My name is Abdullah Abu Hamad, AKA **Viltho**, a full stack web developer, a proud member of Raise A Ticket Group, with loads of experience in Data Science, [DS4A/Jordan](https://www.correlation-one.com/data-science-for-all-jordan) Fellow graduate with Honors, Code-Fellows Python program.
 
-- 🔭 I’m currently studying Next JS - July 2023
+- 🔭 I’m currently studying TypeScript - September 2023
 - 🌱 I’m currently working on making Python my best feature
 - 👯 I’m looking to collaborate on web development projects, 2D games
 - 🤔 I’m looking for help with Artificial Intelligence
